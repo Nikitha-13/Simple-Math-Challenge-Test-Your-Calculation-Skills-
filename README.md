@@ -28,4 +28,7 @@ Gameplay:
 Results:
 * Once the game is complete, the script displays the total time taken and congratulates the player on finishing the quiz.
 
+### Customize
+Adjust the constants at the beginning of the script to change the game's parameters, such as the range of operands, types of operations, and the total number of problems.
+
 If you have any queries or facing any issues please feel free to contact me at pindinikitha00@gmail.com or at https://www.linkedin.com/in/Nikitha-pindi, I would be happy to be a part of your learning joirney. If you have any suggestions on improving my content I'm happy to apply those for my improvement.
