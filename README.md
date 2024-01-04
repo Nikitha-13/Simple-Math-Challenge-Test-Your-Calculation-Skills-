@@ -1,4 +1,4 @@
-    # Math Quiz Game in Python
+   # Math Quiz Game in Python
 
 ### Overview
 
